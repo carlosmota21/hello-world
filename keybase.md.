@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am carlosmota21 on github.
+  * I am carlosmota (https://keybase.io/carlosmota) on keybase.
+  * I have a public key ASDQIj4qQUurB7mB8hNFkYrTQ4FN3zriMF_SEsbepEDsQgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0223e2a414bab07b981f21345918ad343814ddf3ae2305fd212c6dea440ec420a",
+      "host": "keybase.io",
+      "kid": "0120d0223e2a414bab07b981f21345918ad343814ddf3ae2305fd212c6dea440ec420a",
+      "uid": "06440474543dcbb9a60f14e1e548a919",
+      "username": "carlosmota"
+    },
+    "merkle_root": {
+      "ctime": 1568262260,
+      "hash": "0d414b49395e8768c013d70e1b1b38e8846e8be27ead6dc937b9b2e210ad4f1313c3a7b9736d3388ded46929bcb5c4573a151f80eb113421edac4b573d5b0474",
+      "hash_meta": "50d85984e871496095e4fa6390f784e140b4bdc931356e3948feb4fafbc3fbc0",
+      "seqno": 6885758
+    },
+    "service": {
+      "entropy": "STusPYAYzet2J1aN4pxKaKPa",
+      "name": "github",
+      "username": "carlosmota21"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568262268,
+  "expire_in": 504576000,
+  "prev": "3d2a4e0e022302b3725da2a597c3dc0bee1c62cd51728b6e88b4f0262d7a8161",
+  "seqno": 21,
+  "tag": "signature"
+}
+```
+
+with the key [ASDQIj4qQUurB7mB8hNFkYrTQ4FN3zriMF_SEsbepEDsQgo](https://keybase.io/carlosmota), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0CI+KkFLqwe5gfITRZGK00OBTd864jBf0hLG3qRA7EIKp3BheWxvYWTESpcCFcQgPSpODgIjArNyXaKll8PcC+4cYs1RcotuiLTwJi16gWHEIF2LxTaXNQPVspmfPrATqBhjfRQOfrqBtSwtufptpKbCAgHCo3NpZ8RAMqBF6OIDllOULXmrKIfGT7/pwB1r3TvldnKHi4eDpzupvdy+R49ygf4EXtr8xrV9trCLPGJ2RI3BLcpRXTWtBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMJ8zlQ88+lZ42UxK2/i9GX5VCBgH9muhlfgyD6DlshSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/carlosmota
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id carlosmota
+```
